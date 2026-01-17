@@ -1,0 +1,5 @@
+print("enter your name:")
+name=input()
+print("enter your id:")
+id=input()
+print(f"Employee name:{name} Employee ID:{id}")
